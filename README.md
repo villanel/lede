@@ -38,8 +38,7 @@
 你可以自由使用，但源码编译二次发布请注明我的 GitHub 仓库链接。谢谢合作！
 =
 
-二次编译：
-```bash
+二次
 cd lede
 git pull
 ./scripts/feeds update -a && ./scripts/feeds install -a
